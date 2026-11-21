@@ -33,12 +33,12 @@ export const projects: Project[] = [
 ];
 
 export const personalInfo = {
-  name: 'Tu Nombre',
+  name: 'José Alonso',
   title: 'Full Stack Developer',
   description: 'Desarrollador apasionado por crear experiencias web excepcionales',
-  email: 'tu@email.com',
-  github: 'https://github.com/tuusuario',
-  linkedin: 'https://linkedin.com/in/tuusuario',
+  email: 'jose.lopez.car@tecsup.edu.pe',
+  github: 'https://github.com/joselopezcar-debug',
+  linkedin: 'https://www.linkedin.com/in/jose-alonso-lopez-cardenas-324958437/',
   siteUrl: 'https://tuportafolio.com',
-  avatar: 'https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  avatar: '/avatar.png',
 };
