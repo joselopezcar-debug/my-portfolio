@@ -39,6 +39,6 @@ export const personalInfo = {
   email: 'jose.lopez.car@tecsup.edu.pe',
   github: 'https://github.com/joselopezcar-debug',
   linkedin: 'https://www.linkedin.com/in/jose-alonso-lopez-cardenas-324958437/',
-  siteUrl: 'https://tuportafolio.com',
+  siteUrl: 'http://portafolio-lopez.duckdns.org',
   avatar: '/avatar.png',
 };
